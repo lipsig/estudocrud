@@ -1,4 +1,4 @@
-# estudocrud
+# EstudoCrud
 Estudo de CRUD básico com PHP (SQl e metodos HTTP)
 
 CRUD
@@ -59,7 +59,9 @@ delete from tabela where id = 1;
 
 __________________________________________________________________________________________
 
-EM HTTP
+EM HTTP {
+
+VERBOS OU METODOS CRUD
 
 POST            Creates a new resource.
 
@@ -69,3 +71,4 @@ PUT             Updates an existing resource.
 
 DELETE          Deletes a resource.
 
+}
