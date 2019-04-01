@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 EM HTTP {
 
-VERBOS OU METODOS CRUD
+Verbos ou Métodos Crud:
 
 POST            Creates a new resource.
 
