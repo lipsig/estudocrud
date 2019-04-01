@@ -55,7 +55,10 @@ ________________________________________________________________________________
 EM HTTP
 
 POST            Creates a new resource.
+
 GET             Retrieves a resource.
+
 PUT             Updates an existing resource.
+
 DELETE          Deletes a resource.
 
