@@ -6,8 +6,11 @@ CRUD
 Operações básica de manipulação de dados, seja em memoria ou em banco de dados
 
 Create - Cria algum dado 
+
 Read - Le algum dado sem alterar seu estado
+
 Update - Atualiza dado
+
 Delete - Deleta dado
 __________________________________________________________________________________________
 
@@ -23,9 +26,13 @@ Insert into tabela (campo1,campo2,campo3) values ('valor1','valor2','valor3');
 Read - Select:
 
 Exemplo pseudo-código:
+
 Select * from tabela
+
 Select * from tabela where id = 1; (le todos os campos onde a pk for 1)
+
 Select * from tabela where campo like 'a%';  (le qualquer campo que começa com a e termina com qualquer coisa)
+
 Select * from tabela where campo like '%a'; (le qualquer campo começa com qualquer coisa  e termina com a)
 
 
